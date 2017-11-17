@@ -24,6 +24,12 @@ Intended on making your life more enjoyable.
 
 ---
 
+###Permissions
+
+You might need to `chmod +x post-commit/work_complete`
+
+---
+
 ###Sounds
 
 I'm not exactly sure of the legality of including sound files, so the sounds directory is ignored.
