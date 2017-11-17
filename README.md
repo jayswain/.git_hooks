@@ -1,10 +1,10 @@
-#README
+# README
 
-##Git Hooks Configuration
+## Git Hooks Configuration
 
 My configuration for git-hooks (<https://github.com/icefox/git-hooks>)
 
-###Installation
+### Installation
 
 1. Install git-hooks (<https://github.com/icefox/git-hooks>)
 
@@ -16,7 +16,7 @@ My configuration for git-hooks (<https://github.com/icefox/git-hooks>)
 
 ---
 
-###What it do?
+### What it do?
 
 Uses afplay to play sounds when you execute git commands.
 
@@ -24,13 +24,13 @@ Intended on making your life more enjoyable.
 
 ---
 
-###Permissions
+### Permissions
 
 You might need to `chmod +x post-commit/work_complete`
 
 ---
 
-###Sounds
+### Sounds
 
 I'm not exactly sure of the legality of including sound files, so the sounds directory is ignored.
 
@@ -39,6 +39,6 @@ But, this is a nice website:
 
 ---
 
-###Legal
+### Legal
 
 *USE AT YOUR OWN RISK*
