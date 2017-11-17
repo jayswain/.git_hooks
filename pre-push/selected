@@ -1,0 +1,2 @@
+#!/bin/bash
+afplay ~/.git_hooks/sounds/selected5.wav
