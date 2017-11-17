@@ -2,7 +2,7 @@
 
 ## Git Hooks Configuration
 
-My configuration for git-hooks (<https://github.com/icefox/git-hooks>)
+My configuration for git-hooks (https://github.com/icefox/git-hooks)
 
 ### Installation
 
