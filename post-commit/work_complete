@@ -1,2 +1,2 @@
 #!/bin/bash
-afplay ~/.git_hooks/sounds/work-complete.wav
+afplay ~/.git_hooks/sounds/work-complete.wav >/dev/null 2>/dev/null &
