@@ -2,7 +2,7 @@
 
 ## Git Hooks Configuration
 
-My configuration for git-hooks (<https://github.com/icefox/git-hooks>)
+My warcraft 2 sound configuration for git-hooks (<https://github.com/icefox/git-hooks>)
 
 ### Installation
 
@@ -10,15 +10,13 @@ My configuration for git-hooks (<https://github.com/icefox/git-hooks>)
 
 2. Clone this to your home directory.
 
-3. Find some (LEGAL AND FREE) sounds and download them.
-
-4. Enjoy life more.
+3. Enjoy life more.
 
 ---
 
 ### What it do?
 
-Uses afplay to play sounds when you execute git commands.
+Uses afplay to play warcraft 2 sounds when you execute git commands.
 
 Intended on making your life more enjoyable.
 
@@ -26,7 +24,13 @@ Intended on making your life more enjoyable.
 
 ### Permissions
 
-You might need to `chmod +x post-commit/work_complete`
+You might need to `chmod +x -R ~/.git_hooks`
+
+---
+
+### Development
+
+Warcraft 2 is awesome and all, but lets have some diversity. I'd love to see some different themes of packs, and be able to use them with a quick `git branch co quake`.
 
 ---
 
