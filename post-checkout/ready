@@ -1,0 +1,2 @@
+#!/bin/bash
+afplay ~/.git_hooks/sounds/ready.wav >/dev/null 2>/dev/null &
