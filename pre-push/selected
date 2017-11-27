@@ -1,0 +1,4 @@
+#!/bin/bash
+rand=$(( ( RANDOM % 3 )  + 1 ))
+afplay ~/.git_hooks/sounds/selected${rand}.wav
+
